@@ -227,7 +227,7 @@
 # 0 = DISABLED
 # 1 = 50% CHANCE OF SPAWNING
 # 2 = GUARANTEED
-@giga_preset_blokkats = 2
+@giga_preset_blokkats = 0
 
 # BLOKKAT PORTRAITS
 # 0 = STELLARIS
@@ -245,7 +245,7 @@
 # 5 = LATE ENDGAME
 # 6 = GAME START
 # 7 = RANDOM
-@giga_preset_blokkat_date = 7
+@giga_preset_blokkat_date = 0
 
 # BLOKKATS DIFFICULTY
 # 0 = BLOKKLETS
@@ -276,7 +276,7 @@
 #vanilla
 
 @giga_preset_dyson_cap = 3
-@giga_preset_decompressor_cap = 3
+@giga_preset_decompressor_cap = 1
 @giga_preset_assembly_cap = 1
 @giga_preset_coordination_cap = 1
 @giga_preset_mega_art_cap = 1
@@ -303,7 +303,7 @@
 ## 4 = INFINITE
 ## 5 = REPEATABLE
 ## THE RINGWORLD OPTIONS WILL NOT DO ANYTHING IF RINGWORLDS ARE DISABLED
-@giga_preset_ecumenopolis_ringworld = 0
+@giga_preset_ecumenopolis_ringworld = 1
 @giga_preset_hive_ringworld = 1
 @giga_preset_machine_ringworld = 1
 @giga_preset_ringworld_upgrade = 0
@@ -361,7 +361,7 @@
 @giga_preset_disco_moon = 1
 @giga_preset_maginot = 0
 @giga_preset_gigaforge = 0
-@giga_preset_orbital_arcology = 1
+@giga_preset_orbital_arcology = 5
 @giga_preset_orbital_bastion = 0
 @giga_preset_lifter = 3
 @giga_preset_succ = 0
